@@ -1,0 +1,10 @@
+{
+  "name": "RR#1897",
+  "description": "Some pithy description of Rare Rhinos ;)",
+  "image": "ipfs://QmUrtxTLjJDcEMxKbSSPxJh1k4m55JwXM15ogT5RUcnyZV/1897.png",
+  "dna": "a03f5951cdb65350425e26e8fdbd62bb0b23d4a7",
+  "edition": 1896,
+  "date": 16441928684629,
+  "attributes": [{"trait_type": "RR Trait #1", "value": "fill in the blank here"}, {"trait_type": "RR Trait #2", "value": "fill in the blank here"}, {"trait_type": "RR Trait #3", "value": "fill in the blank here"}, {"trait_type": "RR Trait #4", "value": "fill in the blank here"}],
+  "compiler": "Rare Rhinos Engine"
+}

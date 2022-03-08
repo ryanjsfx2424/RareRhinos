@@ -1,0 +1,20 @@
+(remix info)
+
+COMPILER
+  0.8.7+commit.e28d00a7
+
+CONTRACT
+  _NAME: Rare Rhinos V0.0.3
+  _SYMBOL: RR003
+  _INITBASEURI: ipfs://QmPL4b7CXbHjEMuB2EZAB5w247grJDb26Q8HAjex79u6RU/
+  _INITNOTREVEALEDURI_: ipfs://QmcrwjeX8nhXqDxzaPxHNojWbpz7GumPDkXY86iDGX5qjw/hidden.json
+
+Enable optimization: (nope)
+
+Bytecode in "bytecode_v003.txt"
+
+Contract address: 0x6B93dfB248Fd23b775f36Bff59FAbA423248E65d
+
+Deployed on Ropsten testnet.
+
+
